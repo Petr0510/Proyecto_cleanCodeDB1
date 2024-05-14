@@ -36,7 +36,11 @@ Para ejecutar el programa y codificar un texto, sigue los siguientes pasos:
 
     1. Si eliges codificar un texto, ingresa el texto a codificar cuando se solicite.
     2. Si eliges decodificar un texto, ingresa el texto codificado cuando se solicite.
-    3. Si eliges salir, el programa se cerrará.
+    3. Consultar registros existentes en la base de datos.
+    4. Te dará la opcion de modificar el texto ingresado.
+    5. Podrás eliminar cualquier registro hecho previamente.
+    6. Consultaras en la base de datos un registro usando su id.
+    7. Si eliges salir, el programa se cerrará.
 
 - El programa mostrará el texto original, el texto codificado y el texto decodificado respectivamente.
 
